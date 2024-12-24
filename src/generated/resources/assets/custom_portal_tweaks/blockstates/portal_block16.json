@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "custom_portal_tweaks:block/nether_portal"
+    }
+  }
+}
